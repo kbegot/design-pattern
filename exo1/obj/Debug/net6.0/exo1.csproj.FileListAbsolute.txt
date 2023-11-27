@@ -1,0 +1,15 @@
+/Users/kevinbegot/Documents/Isitech/Cours/Design Pattern/exo1/bin/Debug/net6.0/exo1
+/Users/kevinbegot/Documents/Isitech/Cours/Design Pattern/exo1/bin/Debug/net6.0/exo1.deps.json
+/Users/kevinbegot/Documents/Isitech/Cours/Design Pattern/exo1/bin/Debug/net6.0/exo1.runtimeconfig.json
+/Users/kevinbegot/Documents/Isitech/Cours/Design Pattern/exo1/bin/Debug/net6.0/exo1.dll
+/Users/kevinbegot/Documents/Isitech/Cours/Design Pattern/exo1/bin/Debug/net6.0/exo1.pdb
+/Users/kevinbegot/Documents/Isitech/Cours/Design Pattern/exo1/obj/Debug/net6.0/exo1.csproj.AssemblyReference.cache
+/Users/kevinbegot/Documents/Isitech/Cours/Design Pattern/exo1/obj/Debug/net6.0/exo1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinbegot/Documents/Isitech/Cours/Design Pattern/exo1/obj/Debug/net6.0/exo1.AssemblyInfoInputs.cache
+/Users/kevinbegot/Documents/Isitech/Cours/Design Pattern/exo1/obj/Debug/net6.0/exo1.AssemblyInfo.cs
+/Users/kevinbegot/Documents/Isitech/Cours/Design Pattern/exo1/obj/Debug/net6.0/exo1.csproj.CoreCompileInputs.cache
+/Users/kevinbegot/Documents/Isitech/Cours/Design Pattern/exo1/obj/Debug/net6.0/exo1.dll
+/Users/kevinbegot/Documents/Isitech/Cours/Design Pattern/exo1/obj/Debug/net6.0/refint/exo1.dll
+/Users/kevinbegot/Documents/Isitech/Cours/Design Pattern/exo1/obj/Debug/net6.0/exo1.pdb
+/Users/kevinbegot/Documents/Isitech/Cours/Design Pattern/exo1/obj/Debug/net6.0/exo1.genruntimeconfig.cache
+/Users/kevinbegot/Documents/Isitech/Cours/Design Pattern/exo1/obj/Debug/net6.0/ref/exo1.dll
