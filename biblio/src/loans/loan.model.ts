@@ -1,3 +1,4 @@
+// loan.model.ts
 import * as mongoose from 'mongoose';
 
 export const LoanSchema = new mongoose.Schema({

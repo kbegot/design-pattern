@@ -15,4 +15,10 @@ export class BooksService {
   async findAll(): Promise<Book[]> {
     return this.bookModel.find().exec();
   }
+
+  async updateBookStatus(bookId: string, isAvailable: boolean): Promise<Book> {
+    return this.bookModel
+      .findByIdAndUpdate(bookId, { isAvailable }, { new: true })
+      .exec();
+  }
 }

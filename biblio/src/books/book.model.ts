@@ -13,6 +13,7 @@ export const BookSchema = new mongoose.Schema({
     ref: 'Category',
     required: true,
   },
+  isAvailable: { type: Boolean, default: true },
 });
 
 export interface Book extends mongoose.Document {
@@ -20,4 +21,5 @@ export interface Book extends mongoose.Document {
   title: string;
   author: mongoose.Types.ObjectId;
   category: mongoose.Types.ObjectId;
+  isAvailable: boolean;
 }
