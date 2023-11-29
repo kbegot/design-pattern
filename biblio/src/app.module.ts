@@ -3,14 +3,14 @@ import { Module } from '@nestjs/common';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { MongooseModule } from '@nestjs/mongoose';
-import { LibraryModule } from './library/library.module';
+import { BooksModule } from './books/books.module';
 
 @Module({
   imports: [
     MongooseModule.forRoot('mongodb://root:mdp@mongodb:27017', {
       dbName: 'bibliotheque',
     }),
-    LibraryModule,
+    BooksModule,
   ],
   controllers: [AppController],
   providers: [AppService],
